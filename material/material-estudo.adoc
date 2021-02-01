@@ -1,5 +1,9 @@
 = Material para estudo
 
+== Redação
+
+https://brasilescola.uol.com.br/redacao[Redação]
+
 == Estudo da língua portuguesa
 
 https://brasilescola.uol.com.br/redacao/conceito-generos-textuais.htm[Gênero textual]
@@ -23,3 +27,7 @@ https://brasilescola.uol.com.br/gramatica/pronomes-obliquos-atonos.htm[Pronome o
 == Estudo da língua inglesa
 
 https://brasilescola.uol.com.br/ingles[Inglês]
+
+== Estudo de física
+
+https://brasilescola.uol.com.br/fisica[Física]
