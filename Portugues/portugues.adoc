@@ -1,4 +1,13 @@
 = Estudo da língua portuguesa
 
+https://brasilescola.uol.com.br/gramatica/regencia-verbal.htm[Regência verbal]
+
+https://brasilescola.uol.com.br/gramatica/regencia-nominal.htm[Regência nominal]
+
+https://brasilescola.uol.com.br/gramatica/concordancia-verbal.htm[Concordância verbal]
+
+https://brasilescola.uol.com.br/gramatica/concordancia-nominal.htm[Concordância nominal]
+
 https://brasilescola.uol.com.br/gramatica/crase.htm[Uso da crase]
 
+https://brasilescola.uol.com.br/gramatica/pronome.htm[Pronome]
