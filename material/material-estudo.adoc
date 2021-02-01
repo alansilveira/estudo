@@ -1,4 +1,10 @@
-= Estudo da língua portuguesa
+= Material para estudo
+
+== Estudo da língua portuguesa
+
+https://brasilescola.uol.com.br/redacao/conceito-generos-textuais.htm[Gênero textual]
+
+https://brasilescola.uol.com.br/redacao/tipologia-textual.htm[Tipologia textual]
 
 https://brasilescola.uol.com.br/gramatica/regencia-verbal.htm[Regência verbal]
 
@@ -13,3 +19,7 @@ https://brasilescola.uol.com.br/gramatica/crase.htm[Uso da crase]
 https://brasilescola.uol.com.br/gramatica/pronome.htm[Pronome]
 
 https://brasilescola.uol.com.br/gramatica/pronomes-obliquos-atonos.htm[Pronome oblíquo átono]
+
+== Estudo da língua inglesa
+
+https://brasilescola.uol.com.br/ingles[Inglês]
