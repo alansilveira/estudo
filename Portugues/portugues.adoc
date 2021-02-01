@@ -1,10 +1,13 @@
-= Uso da crase
+= Estudo da língua portuguesa
+
+== Uso da crase
 
 Crase é o nome que se dá à união da preposição “a” com o artigo definido “a(s)”, ou com o “a” inicial dos pronomes demonstrativos “aquele(s)”, “aquela(s)” e “aquilo”, ou, ainda, com o “a” inicial dos pronomes relativos “a qual” e “as quais”.
 
 Ao acento indicador de crase dá-se o nome de acento grave. No entanto, existem algumas regras para usar a crase e alguns macetes para nunca deixar de fazer o seu uso correto. É o que veremos a seguir.
 
-Quando usar a crase?
+* Quando usar a crase?
+
 Quando o complemento de um verbo que exija a preposição “a” for um substantivo feminino antecedido de artigo feminino “a”:
 
 Vamos à loja para comprar outros enfeites.
@@ -77,7 +80,8 @@ Necessitamos, com urgência, ir à abastecimentos.
 
 Isto é: Necessitamos, com urgência, ir à (central de) abastecimentos.
 
-Quando não usar a crase?
+* Quando não usar a crase?
+
 Antes de verbos:
 
 Meu primo começou a cumprir pena socioeducativa.
@@ -213,7 +217,8 @@ ou
 
 Chegaram até à praia e desistiram de nadar.
 
-Dicas/macetes para o uso correto da crase
+#Dicas/macetes para o uso correto da crase#
+
 O principal macete para você descobrir se deve ou não usar a crase é substituir a palavra feminina que vem depois da possível crase por uma palavra masculina equivalente:
 
 Eu cheguei à escola de Marcelo.
@@ -259,3 +264,7 @@ Ficamos em Fortaleza na manhã de sábado.
 Perceba que, nas duas substituições, nota-se apenas a presença de preposição, mas não de artigo. Portanto, em “Chegamos a Fortaleza na manhã de sábado”, não pode ocorrer crase.
 
 Veja também: Uso da vírgula – como usar esse importante sinal de pontuação.
+
+== Referências
+
+https://brasilescola.uol.com.br/gramatica/crase.htm[Uso da crase]
