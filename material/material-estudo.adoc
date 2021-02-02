@@ -38,6 +38,12 @@ https://www.infoescola.com/direito/direito-administrativo/[Direito Administrativ
 
 https://www.infoescola.com/direito/direito-administrativo-e-os-principios-constitucionais/[Direito Administrativo e os Princípios Constitucionais.]
 
+https://www.infoescola.com/direito/direito-administrativo/exercicios/[Exercícios do Direito Administrativo]
+
+== Direito Humano
+
+https://www.infoescola.com/sociologia/direitos-humanos/exercicios/[Execício do Direito Humano]
+
 == Princípios
 
 https://www.infoescola.com/direito/principio-da-legalidade/[Princípio da Legalidade]
@@ -52,7 +58,9 @@ https://www.infoescola.com/direito/servidor-publico/[Servidor Público]
 
 == Constituição Federal de 1988
 
-https://www.infoescola.com/direito/constituicao-de-1988/[Constituição Federal]
+https://www.infoescola.com/direito/constituicao-de-1988/[Constituição]
+
+http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm[Constituição Federal de 1988]
 
 == Leis
 
@@ -61,6 +69,8 @@ http://www.planalto.gov.br/ccivil_03/leis/l9784.htm[Lei 9.784 - Regula o process
 http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/Lei/L11107.htm[Lei 11.107 - Dispõe sobre normas gerais de contratação de consórcios públicos e dá outras providências.]
 
 http://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm[Lei 8.112 - Dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais.]
+
+http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13105.htm[Lei 13.105 - Código de Processo Civil]
 
 == Decreto Lei
 
@@ -85,3 +95,15 @@ https://www.infoescola.com/direito/direito-processual-penal/[Direito Processual 
 == Direito Constitucional
 
 https://www.infoescola.com/direito/direito-constitucional/[Direito Constitucional]
+
+https://www.infoescola.com/direito/direito-constitucional/exercicios/[Exercício de Direito Constitucional]
+
+== Regime Militar
+
+https://www.infoescola.com/historia-do-brasil/regime-militar/[Regime Militar]
+
+https://www.infoescola.com/historia/nova-republica/[Nova República]
+
+== Exercícios
+
+https://www.infoescola.com/exercicios/[Exercícios]
