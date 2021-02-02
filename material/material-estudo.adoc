@@ -31,3 +31,32 @@ https://brasilescola.uol.com.br/ingles[Inglês]
 == Estudo de física
 
 https://brasilescola.uol.com.br/fisica[Física]
+
+== Direito Administrativo
+
+https://www.infoescola.com/direito/direito-administrativo/[Direito Administrativo]
+
+
+== Leis
+
+http://www.planalto.gov.br/ccivil_03/leis/l9784.htm[Lei 9784 - Regula o processo administrativo no âmbito da Administração Pública Federal.]
+
+http://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm[Decreto Lei 4657 - Lei de Introdução às normas do Direito Brasileiro.]
+
+http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/Lei/L11107.htm[Lei 11.107 - Dispõe sobre normas gerais de contratação de consórcios públicos e dá outras providências.]
+
+== Súmula
+
+https://www.infoescola.com/direito/sumula/[Súmula]
+
+== Jurisprudência
+
+https://www.infoescola.com/direito/jurisprudencia/[Jurisprudência]
+
+== Direito Processual Penal
+
+https://www.infoescola.com/direito/direito-processual-penal/[Direito Processual Penal]
+
+== Direito Constitucional
+
+https://www.infoescola.com/direito/direito-constitucional/[Direito Constitucional]
