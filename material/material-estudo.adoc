@@ -24,6 +24,18 @@ https://brasilescola.uol.com.br/gramatica/pronome.htm[Pronome]
 
 https://brasilescola.uol.com.br/gramatica/pronomes-obliquos-atonos.htm[Pronome oblíquo átono]
 
+== Gramática
+
+=== Uso do por que, por quê, porque e porquê
+
+O #por que# é usado quando temos a _preposição_ #por# mais o _pronome interrogativo_ #que# equivalente ao sentido de #por qual razão# ou #por qual motivo#, ou quando temos a _preposição_ #por# mais o _pronome relativo_ #que# equivalente ao sentido de #pelo qual#, podendo varial em #pela qual#, #pelos quais# ou #pelas quais#.
+
+O #por quê# é usado quando vem antes de _ponto final_, _ponto de exclamação_ ou _ponto de interrogação_.
+
+O #porque# é usado quando indica uma #causa# ou #explicação de algo# e é equivalente ao sentido de #pois# ou #uma vez que#.
+
+O #porquê# é usado quanto possui significado de #motivo# ou de #razão# e vem acompanhado de determinante (artigo, numeral, pronomo ou adjetivo).
+
 == Estudo da língua inglesa
 
 https://brasilescola.uol.com.br/ingles[Inglês]
