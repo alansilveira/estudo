@@ -1,0 +1,32 @@
+:toc: left
+:sectnums:
+:sectnumlevels: 5
+:toc-title: Sumário
+:toclevels: 5
+:icons: font
+:homepage: https://www.linkedin.com/alan.aasilver
+:author: Alan de Araujo Silveira
+:email: alan.aasilver@gmail.com
+:curso: EGGTICASDA-2021-681599
+:revision: 1.0
+:date: 09/04/2021
+:title-page-background-image: image:imagens/senac-ead.jpg[]
+:title-logo-image: image:imagens/senac-ead.jpg[]
+:appendix-caption: Anexo
+
+= AVALIAÇÃO DE DISCIPLINA
+
+[preface]
+==  GOVERNANÇA E ESTRATÉGIA DE TI
+
+[preface]
+=== QUESTÕES E RESPOSTAS
+
+* Questão 01: Diante do cenário ocorrido no banco Panamericano, quais foram as principais falhas no processo de governança corporativa?
+** Resposta: Considerando que o banco contava com um comitê de auditoria e conselho fiscal; Considerando que o banco foi auditado externamente por uma das maiores empresas do ramo (Deloitte); Considerando que os executivos estavam diretamente envolvidos com a esquema de corrupção; Considerando que o banco prestou informações aos órgãos de supervisão e de fiscalização e que essas informações eram aprovadas pela própria diretoria do banco; Fica evidente que os processos de governança eram existentes, mas sujeitos às influências das partes interessadas, tornando-os frágeis. Desse modo, acredito que a fragilidade do processo EDM05 (Garantir a transparência para as partes interessadas), dificultou tando a prestação de contas quanto a identificação das oportunidades de correções e de melhorias.
+
+* Questão 02: Em um comitê de auditoria do banco Panamericano, cite ao menos cinco (5) itens que poderiam estar incluídos e sendo discutidos.
+** Resposta: 
+
+* Questão 03: Durante toda a situação observada muito se falou de vazamento de dados e colocou-se a segurança da informação em cheque. Diante desse cenário, quais seriam as boas práticas a serem observadas e monitoradas internamente?
+** Resposta: 
