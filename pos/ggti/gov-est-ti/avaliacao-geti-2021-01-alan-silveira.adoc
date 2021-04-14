@@ -34,7 +34,7 @@
 * Resposta 03: No que toca a segurança da informação, percebo algumas fragilidades administrativas em garantir a execução do processo APO13 - Gerenciar a segurança da informação, já que processo possui relação primária com claros objetivos de TI, sendo eles: a conformidade com leis e regulamentos, a gestão do risco, a transparência dos benefícios, custos e riscos, a segurança da informação propriamente dita, bem como sua infraestrutura, processamento e aplicativos envolvidos, e a disponibilidade das informações. Se um funcionário é capaz de manipular intencionalmente os dados mudando a informação final, para atender necessidades pessoais e/ou de terceiros, fica claro que todos esses objetivos foram ignorados, quando deveriam ser respeitados.
 
 [bibliography]
-== REFERÊNCIAS
+=== REFERÊNCIAS
 
 * [1] https://ri.bancopan.com.br/faq/comite-de-auditoria/[Comitê de auditoria do Banco Panamericano.]
 * [2] https://ri.bancopan.com.br/wp-content/uploads/sites/85/2018/07/Panamericano_Regimento_Interno_Comite_Auditoria_20090217.pdf[Regimento interno do Banco Panamericano]
